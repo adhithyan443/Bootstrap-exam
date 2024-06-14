@@ -1,0 +1,47 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.head {
+    display: flex;
+}
+
+.head .col-4 img {
+
+    width: 180px;
+    height: 138px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    /* Horizontal centering */
+    align-items: center;
+    /* Vertical centering */
+    /* height: 100vh;       */
+}
+
+.banner img {
+    width: 100%;
+}
+
+.main {
+    display: flex;
+}
+
+.text-div{
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 964px;
+}
+
+.col-4 .row img{
+    width:440px;
+    height:235px;
+}
+
+.col-4 img{
+    
+    width: 458px;
+    height:473px;
+}
